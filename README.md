@@ -6,8 +6,8 @@ This repository contains a high-performance machine learning solution for predic
 **Objective:** Develop a model to predict the total revenue for over 20,000 stores for November 2023 based on historical sales data and store characteristics.
 **Metric:** MAPE (Mean Absolute Percentage Error).
 **Final Performance:** 
-*   **MAPE:** 4.01% 
-*   **Hackathon Score:** 95.99 / 100
+*   **MAPE:** 3.74% 
+*   **Hackathon Score:** 96.26 / 100
 
 ## 🛠 Tech Stack
 *   **Core:** Python, Pandas, NumPy
@@ -64,8 +64,8 @@ ________________________________________________________________________________
 
 **Метрика:** MAPE (Средняя абсолютная процентная ошибка).
 **Итоговые показатели:**
-*   **MAPE:** 4.01% 
-*   **Баллы на платформе:** 95.99 / 100
+*   **MAPE:** 3.74% 
+*   **Баллы на платформе:** 96.26 / 100
 
 ## 🛠 Технологический стек
 *   **Язык:** Python
