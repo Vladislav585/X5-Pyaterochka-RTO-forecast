@@ -47,7 +47,8 @@ This project was a collaborative effort by:
    ```bash
    pip install catboost pandas numpy scikit-learn
    ```
-2. Run the solution:
+2. Unzip the zip file into the same folder as x5-rto.ipynb
+3. Run the solution:
    ```bash
    python x5-rto.py
    ```
@@ -106,7 +107,8 @@ ________________________________________________________________________________
    ```bash
    pip install catboost pandas numpy scikit-learn
    ```
-2. Запустите решение:
+2. Распакуйте файл zip в ту же папку где и x5-rto.ipynb
+3. Запустите решение:
    ```bash
    python x5-rto.py
    ```
